@@ -1,5 +1,5 @@
 # Doctor_Who-App
-CREATE DATABASE IF NOT EXISTS `BeerApp` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+CREATE DATABASE IF NOT EXISTS `doctorapp` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
 USE `BeerApp`;
 
 CREATE TABLE `details` (
